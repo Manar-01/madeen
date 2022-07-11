@@ -1,1 +1,2 @@
-# SE
+# Madeen it offers to the customer Borrow money from different clients without any benefits. the customer determines the reason (why he need that money) and the amount of money that he need and the amount of monthly installment according to his financial ability then the website calculate the duration of time to finish it , or he can choose to returned it at once .
+His order will be showing in the main page with all other orders and the client can choose any request that suits him and lend him his money
